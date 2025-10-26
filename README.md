@@ -1,6 +1,6 @@
 # MH Wilds Companion
 
-<img src="images/icono_app_512x512.png" alt="App Icon" width="150"/> Aplicación complementaria no oficial para Monster Hunter Wilds, desarrollada para Android. Proporciona un bestiario detallado, seguimiento de progreso de caza y más.
+<img src="images/mh_wilds_companion.png" alt="App Icon" width="150"/> Aplicación complementaria no oficial para Monster Hunter Wilds, desarrollada para Android. Proporciona un bestiario detallado, seguimiento de progreso de caza y más.
 
 ## ✨ Características
 
