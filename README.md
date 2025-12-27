@@ -19,7 +19,7 @@ Aplicación complementaria no oficial para Monster Hunter Wilds, desarrollada pa
 
 ## 📥 Descarga e Instalación
 
-* **Google Play Store:** _(Pendiente de aprobación)_ `[Enlace próximamente]`
+* **Google Play Store:** [Guia MH Wilds: Companion](https://play.google.com/store/apps/details?id=com.theinkreaper.mhwildscompanion&hl=es_419)
 * **GitHub Releases:** Puedes descargar el último archivo `.apk` directamente desde la [página de Releases](https://github.com/TheInkReaper/MHWildsCompanion/releases/latest). _(Recuerda habilitar la instalación desde fuentes desconocidas en tu dispositivo Android)_
 
 ## 🛠️ Tecnologías Utilizadas
